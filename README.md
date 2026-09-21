@@ -1,4 +1,4 @@
-# Mobile-Data-Sales-Dashboard-PowerBI
+# OLA-Analytics-Dashboard-PowerBI
 Designed an end-to-end sales performance dashboard in Power BI, analyzing regional sales volume, revenue contribution, and sales rep efficiency across diverse geographic markets.## Dashboard Preview
 
 ![Dashboard Preview](https://github.com/RahulDataAnalyst0/ola-ride-analytics-PowerBI/blob/main/Cancellation%20Page.png)
